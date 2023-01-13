@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "applicartapp":[
+    {
+      "id":1,
+      "product":"iphone"
+    }
+  ]
+
 }
