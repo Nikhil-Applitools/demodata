@@ -1,2 +1,2 @@
 # demodata
- https://my-json-server.typicode.com/Nikhil-Applitools/demodata 
+ https://my-json-server.typicode.com/nikhil-Applitools/demodata
